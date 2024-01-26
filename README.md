@@ -5,4 +5,4 @@ Am adaugat un text prin web-browser
 
 Adaugam un text in repo local
 
-Am adaugan un text in branch new <new_branch>
+Am adaugat un text in branch new <new_branch>
