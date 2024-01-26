@@ -7,4 +7,6 @@ Adaugam un text in repo local
 
 Am adaugat un text in branch new <new_branch>
 
-Am adagat un conflict in local repo
+
+Rezolvam un conflict in browser
+
